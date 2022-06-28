@@ -1,0 +1,32 @@
+{
+  "events" : [
+    {
+      "title" : "mario birthday",
+      "id" : 5632,
+      "location" : "manchester",
+      "date" : "2022-06-08",
+      "type": "birthday"
+    },
+    {
+      "title": "mario funeral", 
+      "id": 1, 
+      "location": "manchester", 
+      "date": "2022-06-08",
+      "type": "funeral"
+    },
+    {
+      "title": "luigi b", 
+      "id": 2, 
+      "location": "manchester", 
+      "date": "2022-06-08",
+      "type": "birthday"
+    },
+    {
+      "title": "romeo b", 
+      "id": 3, 
+      "location": "manchester", 
+      "date": "2022-06-08",
+      "type": "birthday"
+    }
+  ]
+}
